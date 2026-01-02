@@ -183,3 +183,7 @@ Este projeto tem como objetivo o aprendizado prático de:
 - Estruturação de aplicações em Dart
 
 - Criação de assistentes virtuais via terminal
+
+## 🎓 Créditos e Referências
+
+<p align="center">Este projeto foi desenvolvido como parte do aprendizado prático no curso de Dart da plataforma Alura.</p>
