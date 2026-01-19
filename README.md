@@ -5,7 +5,7 @@
     alt="Logo do Dart"
     width="45%"
   />
-</p
+</p>
 <p align="center">
   Assistente virtual desenvolvido em <strong>Dart</strong>, integrado à <strong>API do GitHub Gist</strong> para consulta e manipulação dinâmica de dados.
 </p>
